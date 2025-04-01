@@ -1,4 +1,4 @@
-# Importation du module Active Directory
+# Importation du module Active Directory test
 Import-Module ActiveDirectory
 
 # Chemin des fichiers CSV
